@@ -1,5 +1,5 @@
 # Dosya adını değiştirin veya yolunu belirtin
-dosya_adı = "C:\\Users\\batuh\\Desktop\\Yeni klasör (7)\\b.txt"
+dosya_adı = "C:\\Users\\ud\\Desktop\\Yeni klasör (7)\\b.txt"
 
 try:
     # Dosyayı oku ve içeriğini al
